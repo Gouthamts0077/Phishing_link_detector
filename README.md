@@ -18,8 +18,6 @@ python3 --version
 
 Requests Library: Install the required library with:
 
-bash
-
     pip install requests
 
 Installation
@@ -41,16 +39,23 @@ Run the script with:
 
 python3 phishing_detector.py
 
-Example
+Example:
 
 plaintext
 
 Enter the URL to analyze: http://example-login.freegift.tk
+
 [!] Suspicious keyword found in URL.
+
 [!] URL length is unusually long.
+
 [!] Suspicious Top-Level Domain (TLD) found.
+
 [+] URL is reachable.
+
 [!] Warning: This URL is likely a phishing link.
+
+
 
 How It Works 🧠
 
